@@ -1,0 +1,4 @@
+speech_recognition==3.8.1
+gTTS==2.2.3
+pygame==2.1.0
+wikipedia-api==0.5.4
